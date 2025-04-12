@@ -1,0 +1,65 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+
+header {
+    background-color: #6ba96b;
+    padding: 25px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.about {
+    color: #16482f;
+    text-align: center;
+    font-size: 24px;
+}
+
+.hobbies h2 {
+    color: #16482f;
+    font-size: 24px;
+}
+
+.hobbies p {
+    color: #6ba96b;
+    font-size: 18px;
+}
+
+.hobbies {
+    color: #206141;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #16482f;
+}
+
+a:visited {
+    color: #206141;
+}
+
+header a {
+    padding-right: 50px;
+}
+
+.nopadding {
+    padding: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+nav a:any-link {
+    color: #16482f;
+    font-size: 24px;
+}
+
+nav a {
+    padding-right: 50px;
+}
