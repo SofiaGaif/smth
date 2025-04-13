@@ -26,6 +26,40 @@ nav a:any-link {
     font-size: 24px;
 }
 
-h2 {
-    color: #b676d8
+.image img {
+    height: 500px;
+}
+
+.containerPT {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0px;
+    margin: 10px;
+}
+
+.containerTP {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0px;
+    margin: 10px;
+    text-align: right;
+}
+
+.containerTP .text {
+    padding-right: 40px;
+    padding-left: 0px;
+}
+
+.text {
+    padding-left: 40px;
+}
+
+.text h2 {
+    font-size: 70px;
+    color: #6b308d;
+}
+
+.text p {
+    font-size: 35px;
+    color: #b676d8;
 }
